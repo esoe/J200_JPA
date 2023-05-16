@@ -1,0 +1,6 @@
+ru\molokoin\j200_jpa\entities\Users.class
+ru\molokoin\j200_jpa\servlets\Listing.class
+ru\molokoin\j200_jpa\entities\Domains.class
+ru\molokoin\j200_jpa\services\Repository.class
+ru\molokoin\j200_jpa\entities\Person.class
+ru\molokoin\j200_jpa\services\RepositoryFace.class

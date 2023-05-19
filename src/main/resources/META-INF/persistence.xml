@@ -3,7 +3,7 @@
     <persistence-unit name="Repository" transaction-type="JTA">
         <description>Подключение к базе PersonsDB на сервере molokoin.ru:3306, через установленный на wildfly datasource: JNDI Name java:/MySqlDS</description>
         <jta-data-source>java:/MySqlDS</jta-data-source>
-        <class>ru.molokoin.j200_jpa.services.Repository</class>
+        <!-- <class>ru.molokoin.j200_jpa.services.Repository</class> -->
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
         <!-- <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
